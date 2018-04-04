@@ -741,7 +741,7 @@
             t = this;
             request = $.ajax({
                 url: src,
-                type: "POST",
+                type: "GET",
                 dataType: "text",
                 success: function(data, textStatus, jqXHR) {
                     if( exeExt == "ascii") {
