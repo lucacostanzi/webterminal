@@ -1,0 +1,1 @@
+<--------------Welcome on Link WebOS!-----------------></br><br/>You can use the UP and DOWN arrow keys to scroll through previosly executed commands.<br/>Start typing a file or directory name and press TAB to autocomplete it.<br/>Executable files can be launched just by typing the filename.
