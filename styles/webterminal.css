@@ -86,8 +86,8 @@
     z-index: 2;
 }
 #monitor pre {
-    background-color: black;
-    color: #97ff00;
+    background-color: inherit;
+    color: inherit;
     overflow: hidden;
 }
 #grid {
@@ -101,7 +101,6 @@
     outline: 0 none;
     overflow: hidden;
     padding: 30px;
-    width: 100%;
 }
 .tabbed {
     display: inline-block;
