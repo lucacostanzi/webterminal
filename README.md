@@ -15,7 +15,7 @@ C:\documents>
 To return on the parent folder C: you can now use the command CD.. (CD followed by 2 points). 
 
 ## LIST OF COMMANDS
-CD [path]
+### CD [path]
 Changes the current directory.
 
 ### CD..
